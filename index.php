@@ -1,3 +1,3 @@
 <?php
-$var1 = ' dude';
+$var1 = ' du';
 echo "whatever".$var1;
